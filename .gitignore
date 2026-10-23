@@ -1,0 +1,6 @@
+node_modules
+dist
+dev-dist
+.free-exercise-db
+*.log
+*.tsbuildinfo
